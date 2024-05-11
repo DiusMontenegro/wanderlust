@@ -4,11 +4,12 @@
     "version": "0.0.0",
     "type": "module",
     "scripts": {
-        "dev": "vite",
+        "start": "vite",
         "build": "vite build",
         "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
         "preview": "vite preview",
-        "server": "json-server --watch ./data/cities.json --port 8000"
+        "server": "json-server --watch ./data/cities.json --port 8000",
+        "dev": "concurrently \"npm run server\" \"npm run start\""
     },
     "dependencies": {
         "@nextui-org/react": "^2.2.10",
@@ -16,6 +17,7 @@
         "axios": "^1.6.8",
         "class-variance-authority": "^0.7.0",
         "clsx": "^2.1.0",
+        "concurrently": "^8.2.2",
         "framer-motion": "^11.0.24",
         "json-server": "^1.0.0-alpha.23",
         "leaflet": "^1.9.4",
