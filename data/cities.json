@@ -1,3 +1,40 @@
 {
-  "cities": []
+  "cities": [
+    {
+      "id": "3941",
+      "cityName": "Hounslow",
+      "country": "United Kingdom of Great Britain and Northern Ireland (the)",
+      "emoji": "🇬🇧",
+      "date": "2024-05-11T12:06:04.408Z",
+      "notes": "",
+      "position": {
+        "lat": "51.44373668041616",
+        "lng": "-0.406494140625"
+      }
+    },
+    {
+      "id": "60fa",
+      "cityName": "Oxford",
+      "country": "United Kingdom of Great Britain and Northern Ireland (the)",
+      "emoji": "🇬🇧",
+      "date": "2024-05-11T12:06:13.595Z",
+      "notes": "",
+      "position": {
+        "lat": "51.77803705914517",
+        "lng": "-1.2799072265625002"
+      }
+    },
+    {
+      "id": "2f18",
+      "cityName": "Woolmer Green",
+      "country": "United Kingdom of Great Britain and Northern Ireland (the)",
+      "emoji": "🇬🇧",
+      "date": "2024-05-11T12:35:07.121Z",
+      "notes": "",
+      "position": {
+        "lat": "51.83577752045248",
+        "lng": "-0.18676757812500003"
+      }
+    }
+  ]
 }
