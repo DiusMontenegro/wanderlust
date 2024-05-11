@@ -15,9 +15,9 @@ export default function Product() {
                         Just $9/month.
                     </h2>
                     <p>
-                        Lorem ipsum dolor, sit amet consectetur adipisicing
-                        elit. Vitae vel labore mollitia iusto. Recusandae quos
-                        provident, laboriosam fugit voluptatem iste.
+                        Unlock a world of possibilities and embark on your next
+                        adventure without breaking the bank. Ready to wander?
+                        Subscribe now.
                     </p>
                 </div>
                 <img

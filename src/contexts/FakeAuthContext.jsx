@@ -8,10 +8,10 @@ const initialState = {
 };
 
 const FAKE_USER = {
-    name: 'Jajabol',
-    email: 'jack@example.com',
+    name: `Wanderer${Math.floor(Math.random() * 101)}`,
+    email: 'wanderer@email.com',
     password: 'qwerty',
-    avatar: 'https://i.pravatar.cc/100?u=zz',
+    avatar: 'https://i.pravatar.cc/100',
 };
 
 function reducer(state, action) {

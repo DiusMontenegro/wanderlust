@@ -13,17 +13,19 @@ export default function Product() {
                     className="w-[100%]"
                 />
                 <div>
-                    <h2>About WorldWide.</h2>
+                    <h2>About Wanderlust.</h2>
                     <p>
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                        Illo est dicta illum vero culpa cum quaerat architecto
-                        sapiente eius non soluta, molestiae nihil laborum,
-                        placeat debitis, laboriosam at fuga perspiciatis?
+                        Wanderlust is an innovative travel companion designed to
+                        ignite your passion for exploration. With Wanderlust,
+                        you can effortlessly plan your next adventure, discover
+                        hidden gems around the globe, and connect with
+                        like-minded travelers. Whether you're a seasoned
+                        globe-trotter or a first-time explorer.
                     </p>
                     <p>
-                        Lorem, ipsum dolor sit amet consectetur adipisicing
-                        elit. Corporis doloribus libero sunt expedita ratione
-                        iusto, magni, id sapiente sequi officiis et.
+                        Wanderlust provides the tools and inspiration you need
+                        to create unforgettable memories. Say goodbye to
+                        ordinary and hello to extraordinary with Wanderlust.
                     </p>
                 </div>
             </section>
