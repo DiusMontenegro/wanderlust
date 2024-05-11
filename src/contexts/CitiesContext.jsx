@@ -7,7 +7,7 @@ import {
 } from 'react';
 import axios from 'axios';
 
-const BASE_URL = 'http://localhost:8000';
+const BASE_URL = 'https://wanderlust-8qb8.onrender.com';
 const CitiesContext = createContext();
 
 const initialState = {
